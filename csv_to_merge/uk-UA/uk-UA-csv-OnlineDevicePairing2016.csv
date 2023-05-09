@@ -1,0 +1,35 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"This report shows client building and subnet pairs which experienced firewall issues while connecting to the server in last two months",,"Цей звіт показує клієнтські пари «будівля-підмережа», де за останні два місяці спостерігалися проблеми брандмауера під час підключення до сервера.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Filter: {DataFilterColumnName}",,"Фільтр: {DataFilterColumnName}",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Microsoft Call Quality Dashboard",,"Центр моніторингу якості зв’язку Microsoft",,"Text",,"All",,"Online Device Pairing 2016",,""
+"It looks like your Office 365 or Skype for Business tenant was recently created. Please check back in 24 hours to activate the Call Quality Dashboard.",,""Схоже, ваш клієнт Office 365 або ""Skype для бізнесу"" створено нещодавно. Поверніться за 24 години, щоб активувати Центр моніторингу якості зв’язку."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error: Column data size is too large at column number: {0}",,"Помилка. Розмір даних завеликий у стовпці під номером {0}.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Upload your information - Information you add will be visible to Microsoft engineers for support purposes",,"Передайте інформацію – вона відображатиметься інженерам Microsoft для цілей підтримки",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Audio - Quality",,"Аудіо – якість",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Audio - Reliability",,"Аудіо – надійність",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Call Volume",,"Кількість викликів",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Failed %",,"% медіапотоків із помилками",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Failed Volume",,"Кількість медіапотоків із помилками",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Succeeded Volume",,"Кількість успішних медіапотоків",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Volume",,"Кількість медіапотоків",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Rating Count",,"Лічильник оцінок",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Second Subnet",,"Друга підмережа",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client AppSharing Streams Buildings and Subnets",,"Будівлі та підмережі з AppSharing-потоками «сервер-клієнт»",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client Audio Streams Buildings and Subnets",,"Будівлі та підмережі з аудіопотоками «сервер-клієнт»",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client VBSS Streams Buildings and Subnets",,"Будівлі та підмережі з VBSS-потоками «сервер-клієнт»",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client Video Streams Buildings and Subnets",,""Будівлі та підмережі з відеопотоками ""сервер-клієнт"""",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media failed volume",,"кількість медіапотоків із помилками",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media succeeded volume",,"кількість успішних медіапотоків",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media volume",,"кількість медіапотоків",,"Text",,"All",,"Online Device Pairing 2016",,""

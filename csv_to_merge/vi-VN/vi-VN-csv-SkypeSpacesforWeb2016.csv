@@ -1,0 +1,63 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Data from {0}",,"Dữ liệu từ {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Delayed 15 minutes.",,"Trễ 15 phút.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"More details",,"Chi tiết khác",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"News",,"Tin tức",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"No results found.",,"Không tìm thấy kết quả nào.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"After hours",,"Sau giờ",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Percentage change",,"Thay đổi tính theo tỷ lệ phần trăm",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Price change",,"Thay đổi giá",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"When",,"Thời gian",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Image may be subject to copyright</a>"",,""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Hình ảnh có thể có bản quyền</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Image",,"Hình ảnh",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""{0}"">View original</a>"",,""<a href=""{0}"">Xem bản gốc</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Rất tiếc, chúng tôi không tìm thấy nội dung nào phù hợp với từ tìm kiếm của bạn.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Information from {0}",,"Thông tin từ {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Bing Maps",,"Bản đồ Bing",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Confirm location",,"Xác nhận địa điểm",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Daily",,"Hàng ngày",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0} to {1}",,"{0} đến {1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Directions",,"Chỉ đường",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Hotel",,"Khách sạn",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Enter a search term (a business name, landmark, zip code, or city) to get more info",,"Hãy nhập một từ tìm kiếm (tên doanh nghiệp, điểm mốc, mã zip hoặc thành phố) để có thêm thông tin",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Local business",,"Doanh nghiệp địa phương",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Map of {0}",,"Bản đồ của {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours",,"Mở cửa 24 giờ",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours a day",,"Mở cửa 24 giờ mỗi ngày",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Permanently closed",,"Đóng cửa vĩnh viễn",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Restaurant",,"Nhà hàng",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"({0} reviews)",,"({0} đánh giá)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"(1 review)",,"(1 đánh giá)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0}–{1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Tourist attraction",,"Địa điểm du lịch",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Go to website",,"Truy cập trang web",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°C",,"°C",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°F",,"°F",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Feels like",,"Cảm thấy như",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"High / Low temperature",,"Nhiệt độ cao/thấp",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Humidity",,"Độ ẩm",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find a forecast for that location.",,"Rất tiếc, chúng tôi không tìm thấy dự báo cho địa điểm đó.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Chance of precipitation",,"Có thể mưa",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Wind",,"Gió",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"LIVE",,"TRỰC TIẾP",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"views",,"lượt xem",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"watching",,"đang xem",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Places",,"Địa điểm",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Use this location",,"Sử dụng vị trí này",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"We need your location in order to provide accurate results. Use the location we've obtained automatically, or manually set it.",,"Chúng tôi cần vị trí của bạn để cung cấp kết quả chính xác. Tự động sử dụng vị trí chúng tôi thu thập hoặc đặt vị trí theo cách thủ công.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""Note: We store your location to improve queries, subject to our <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Privacy Policy</a> and <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Terms of Use</a>."",,""Lưu ý: Chúng tôi lưu trữ vị trí của bạn để cải thiện truy vấn theo <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Chính sách về quyền riêng tư</a> và <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Điều khoản sử dụng</a> của chúng tôi."",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Location",,"Vị trí",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Third party notices",,"Thông báo của bên thứ ba",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Configure Places",,"Đặt cấu hình địa điểm",,"Text",,"All",,"Skype Spaces for Web 2016",,""

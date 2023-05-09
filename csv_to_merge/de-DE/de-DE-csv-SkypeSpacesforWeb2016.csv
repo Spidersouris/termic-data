@@ -1,0 +1,63 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Data from {0}",,"Daten von {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Delayed 15 minutes.",,"15 Minuten verzögert.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"More details",,"Weitere Details",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"News",,"Nachrichten",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"No results found.",,"Keine Ergebnisse gefunden.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"After hours",,"Außerhalb der Geschäftszeiten",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Percentage change",,"Prozentuale Änderung",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Price change",,"Kursentwicklung",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"When",,"Wann",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Image may be subject to copyright</a>"",,""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Bild kann urheberrechtlich geschützt sein</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Image",,"Bild",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""{0}"">View original</a>"",,""<a href=""{0}"">Original anzeigen</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Leider konnte keine Übereinstimmung mit Ihrem Suchbegriff gefunden werden.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Information from {0}",,"Informationen von {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Bing Maps",,"Bing Maps",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Confirm location",,"Standort bestätigen",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Daily",,"Täglich",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0} to {1}",,"{0} bis {1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Directions",,"Wegbeschreibung",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Hotel",,"Hotel",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Enter a search term (a business name, landmark, zip code, or city) to get more info",,"Geben Sie einen Suchbegriff ein (Firmenname, Wahrzeichen, Postleitzahl oder Stadt), um weitere Informationen zu erhalten",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Local business",,"Örtliches Geschäft",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Map of {0}",,"Stadtplan von {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours",,"Rund um die Uhr geöffnet",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours a day",,"Rund um die Uhr geöffnet",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Permanently closed",,"Dauerhaft geschlossen",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Restaurant",,"Restaurant",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"({0} reviews)",,"({0} Bewertungen)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"(1 review)",,"(1 Bewertung)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0}–{1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Tourist attraction",,"Sehenswürdigkeit",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Go to website",,"Zur Webseite gehen",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°C",,"°C",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°F",,"°F",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Feels like",,"Gefühlt",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"High / Low temperature",,"Hohe/niedrige Temperatur",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Humidity",,"Luftfeuchtigkeit",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find a forecast for that location.",,"Leider konnte keine Wettervorhersage für diesen Standort gefunden werden.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Chance of precipitation",,"Niederschlagswahrscheinlichkeit",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Wind",,"Wind",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"LIVE",,"LIVE",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"views",,"Ansichten",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"watching",,"schauen zu",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Places",,"Orte",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Use this location",,"Diesen Standort verwenden",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"We need your location in order to provide accurate results. Use the location we've obtained automatically, or manually set it.",,"Wir benötigen Ihren Standort, um genaue Ergebnisse bereitzustellen. Verwenden Sie den automatisch ermittelten Standort oder legen Sie ihn manuell fest.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""Note: We store your location to improve queries, subject to our <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Privacy Policy</a> and <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Terms of Use</a>."",,""Hinweis: Wir speichern Ihren Standort zur Verbesserung der Abfragen in Übereinstimmung mit unseren <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Datenschutzrichtlinien</a> und <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Nutzungsbedingungen</a>."",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Location",,"Standort",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Third party notices",,"Hinweise zu Drittanbietern",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Configure Places",,"Orte konfigurieren",,"Text",,"All",,"Skype Spaces for Web 2016",,""

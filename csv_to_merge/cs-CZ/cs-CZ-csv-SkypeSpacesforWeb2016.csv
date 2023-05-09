@@ -1,0 +1,64 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Data from {0}",,"Data od poskytovatele {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Delayed 15 minutes.",,"Zpožděné 15 minut.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"More details",,"Další podrobnosti",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"News",,"Novinky",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"No results found.",,"Nebyly nalezeny žádné výsledky.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"After hours",,"Mimo pracovní dobu",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Percentage change",,"Procentní změna",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Price change",,"Změna ceny",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"When",,"Kdy",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Image may be subject to copyright</a>"",,""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Obrázek může být předmětem autorského práva</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Image",,"Obrázek",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""{0}"">View original</a>"",,""<a href=""{0}"">Zobrazit originál</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Bohužel jsme nenašli obrázek odpovídající hledanému termínu.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Bohužel jsme nenašli článek odpovídající hledanému termínu.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Information from {0}",,"Informace z {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Bing Maps",,"Mapy Bing",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Confirm location",,"Potvrdit umístění",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Daily",,"Denně",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0} to {1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Directions",,"Navigační pokyny",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Hotel",,"Hotel",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Enter a search term (a business name, landmark, zip code, or city) to get more info",,"Chcete-li získat další informace, zadejte hledanou frázi (obchodní název, orientační bod, PSČ nebo město).",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Local business",,"Místní podnik",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Map of {0}",,"Mapa {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours",,"Otevřeno 24 hodin",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours a day",,"Otevřete 24 hodin denně",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Permanently closed",,"Trvale zavřeno",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Restaurant",,"Restaurace",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"({0} reviews)",,"({0} recenzí)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"(1 review)",,"(1 recenze)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0}–{1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Tourist attraction",,"Turistické zajímavosti",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Go to website",,"Přejít na web",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°C",,"°C",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°F",,"°F",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Feels like",,"Pocitová teplota",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"High / Low temperature",,"Teplotní maximum/minimum",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Humidity",,"Vlhkost",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find a forecast for that location.",,"Bohužel jsme nenašli žádnou předpověď pro toto místo.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Chance of precipitation",,"Pravděpodobnost srážek",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Wind",,"Vítr",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"LIVE",,"ŽIVĚ",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"views",,"zhlédnutí",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"watching",,"sledujících",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Places",,"Místa",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Use this location",,"Použít toto umístění",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"We need your location in order to provide accurate results. Use the location we've obtained automatically, or manually set it.",,"Potřebujeme znát vaši polohu, abychom mohli zajistit přesnost výsledků. Použijte místo, které jsme automaticky získali nebo nastavte ručně jiné.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""Note: We store your location to improve queries, subject to our <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Privacy Policy</a> and <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Terms of Use</a>."",,""Poznámka: Vaši polohu ukládáme v souladu s našimi <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">zásadami ochrany osobních údajů</a> a <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">podmínkami použití</a>."",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Location",,"Místo",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Third party notices",,"Oznámení třetích stran",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Configure Places",,"Nastavení míst",,"Text",,"All",,"Skype Spaces for Web 2016",,""

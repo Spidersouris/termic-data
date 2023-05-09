@@ -1,0 +1,320 @@
+An accessibility label for the invisible container which contains a history of the notifications announced by the screen reader (like 'Message sent.')	Popisek přístupnosti pro neviditelný kontejner, který obsahuje historii oznámení přečtených čtečkou obrazovky (například oznámení o poslání zprávy)	null	null	null
+Accept	Přijmout	null	null	null
+Accept the call	Přijmout hovor	null	null	null
+Click to {swiftAction}	Kliknutím provedete akci {swiftAction}	null	null	null
+Add to favorites	Přidat do oblíbených	null	null	null
+Send	Odeslat	null	null	null
+Delete conversation	Odstranit konverzaci	null	null	null
+Leave conversation	Odejít z konverzace	null	null	null
+Mark as read	Označit jako přečtené	null	null	null
+Mark as unread	Označit jako nepřečtené	null	null	null
+Remove from favorites	Odebrat z oblíbených	null	null	null
+Turn notifications off	Vypnout oznámení	null	null	null
+Turn notifications on	Zapnout oznámení	null	null	null
+Add to new group	Přidat do nové skupiny	null	null	null
+Currently unable to chat.	Nyní nelze zahájit chat.	null	null	null
+Type to chat...	Psaním zahájíte chat…	null	null	null
+Avatar of {title}	Avatar uživatele {title}	null	null	null
+Block	Zablokovat	null	null	null
+Delete	Odstranit	null	null	null
+Leave	Opustit	null	null	null
+Yes	Ano	null	null	null
+Remove	Odebrat	null	null	null
+Bot ID	ID robota	null	null	null
+Button image	Obrázek tlačítka	null	null	null
+Button label	Popisek tlačítka	null	null	null
+Button style	Styl tlačítka	null	null	null
+Code	Kód	null	null	null
+Colors	Barvy	null	null	null
+Copy	Kopírovat	null	null	null
+Dark	Tmavý	null	null	null
+Light	Světlý	null	null	null
+Message	Zpráva	null	null	null
+Theme	Motiv	null	null	null
+Add	Přidat	null	null	null
+Back to {section}	Zpět do části {section}	null	null	null
+Call back	Zavolat zpět	null	null	null
+Create	Vytvořit	null	null	null
+Join	Připojit se	null	null	null
+The person you're trying to call may not be available	Člověk, kterému se pokoušíte volat, nemusí být k dispozici.	null	null	null
+Accept with audio	Přijmout se zvukem	null	null	null
+Accept with video	Přijmout s videem	null	null	null
+Dock	Ukotvit	null	null	null
+Fullscreen	Celá obrazovka	null	null	null
+Reject	Odmítnout	null	null	null
+Settings	Nastavení	null	null	null
+Start audio call	Zahájit audiohovor	null	null	null
+Start video call	Zahájit videohovor	null	null	null
+Toggle chat	Zobrazit/skrýt chat	null	null	null
+Your browser does not support calling. Use Microsoft Edge or Google Chrome for the best experience.	Váš prohlížeč nepodporuje volání. Pro co nejlepší zážitky použijte prohlížeč Microsoft Edge nebo Google Chrome.	null	null	null
+Close	Zavřít	null	null	null
+How would you rate the quality of this call?	Jak byste ohodnotili kvalitu tohoto hovoru?	null	null	null
+CALLING...	VOLÁNÍ…	null	null	null
+INCOMING CALL	PŘÍCHOZÍ HOVOR	null	null	null
+CALL ON HOLD...	PŘIDRŽENÝ HOVOR…	null	null	null
+{initiator} is recording the call	{initiator} hovor nahrává.	null	null	null
+Cameras	Kamery	null	null	null
+Devices	Zařízení	null	null	null
+Microphones	Mikrofony	null	null	null
+Speakers	Reproduktory	null	null	null
+Unknown device ({id})	Neznámé zařízení ({id})	null	null	null
+To make this call, the camera and microphone needs to be connected with granted permission	Aby bylo možné uskutečnit tento hovor, musíte připojit kameru a mikrofon a udělit příslušná oprávnění.	null	null	null
+Conversation is blocked	Konverzace je blokována.	null	null	null
+There are {count} participants in conversation	Počet účastníků v konverzaci: {count}	null	null	null
+Dismiss	Zavřít	null	null	null
+Clear	Vymazat	null	null	null
+Click here	Klikněte sem	null	null	null
+{0}Click here{1} to switch accounts	{0}Kliknutím sem{1} přepnete účty	null	null	null
+Click here to switch accounts	Kliknutím sem přepnete účty	null	null	null
+Close the chat	Zavřít chat	null	null	null
+Block this contact?	Blokovat tento kontakt?	null	null	null
+Report abuse from this person	Nahlásit obtěžování od tohoto uživatele	null	null	null
+Select a reason	Vyberte důvod.	null	null	null
+Delete chat	Odstranit chat	null	null	null
+Are you sure you want to delete this chat?	Opravdu chcete odstranit tento chat?	null	null	null
+Remove message	Odstranit zprávu	null	null	null
+Are you sure you want to remove this message?	Opravdu chcete odebrat tuto zprávu?	null	null	null
+Edit message	Upravit zprávu	null	null	null
+Leave chat	Opustit chat	null	null	null
+Are you sure you want to leave this chat?	Určitě chcete opustit tento chat?	null	null	null
+Child exploitation	Zneužívání dětí	null	null	null
+Harassment or threats	Obtěžování nebo vyhrožování	null	null	null
+Contains nudity or pornography	Obsahuje nahotu nebo pornografii	null	null	null
+Spam	Spam	null	null	null
+Mark all as read	Označit vše jako přečtené	null	null	null
+Are you sure you want to mark all conversations as read?	Opravdu chcete označit všechny konverzace jako přečtené?	null	null	null
+Context menu	Místní nabídka	null	null	null
+Add to group chat	Přidat do skupinového chatu	null	null	null
+Chat participants	Chat s účastníky	null	null	null
+Call participants	Účastníci hovoru	null	null	null
+Participants	Účastníci	null	null	null
+Copy message	Kopírovat zprávu	null	null	null
+Hi, I would like to add you to my contacts.	Ahoj, chtěl(a) bych si tě přidat do kontaktů.	null	null	null
+Fri	PÁ	null	null	null
+Mon	PO	null	null	null
+Sat	SO	null	null	null
+Sun	NE	null	null	null
+Thu	ČT	null	null	null
+Tue	ÚT	null	null	null
+Wed	ST	null	null	null
+Click allow to give microphone and camera access.	Kliknutím povolíte přístup k mikrofonu a kameře.	null	null	null
+Do not have an account?	Nemáte účet?	null	null	null
+Close Emoticon picker	Zavřít výběr emotikon	null	null	null
+Open Emoticon picker	Otevřít výběr emotikon	null	null	null
+Failed	Selhalo	null	null	null
+Sent a file	Odeslal(a) soubor	null	null	null
+{participant} has left this conversation	Uživatel {participant} opustil tuto konverzaci.	null	null	null
+Privacy policy	Zásady ochrany osobních údajů	null	null	null
+Terms of use	Podmínky použití	null	null	null
+hi	Ahoj	null	null	null
+Hide collapsed chats	Skrýt sbalené chaty	null	null	null
+Hide incoming video	Skrýt příchozí video	null	null	null
+{participant} has made the chat history visible to everyone	Uživatel {participant} zpřístupnil historii chatu pro všechny.	null	null	null
+{participant} has hidden the conversation history from new participants	Uživatel {participant} skryl historii chatu před novými účastníky.	null	null	null
+This message has been edited	Tato zpráva byla upravena.	null	null	null
+Ignore	Ignorovat	null	null	null
+Ignore the call	Ignorovat hovor	null	null	null
+Ignore unread message reminder notification	Ignorovat připomenutí o nepřečtených zprávách.	null	null	null
+Ignore notifications from Skype client for some time	Ignorovat oznámení od klienta Skype po nějakou dobu.	null	null	null
+Ignore unread message notification	Ignorovat upozornění na nepřečtené zprávy.	null	null	null
+{participant} joined this conversation	Uživatel {participant} se připojil k této konverzaci.	null	null	null
+{participant} disabled joining this conversation	Uživatel {participant} zakázal připojení k této konverzaci.	null	null	null
+{participant} enabled joining this conversation	Uživatel {participant} povolil připojení k této konverzaci.	null	null	null
+This message type is currently not supported. Go to http://web.skype.com for full experience	Tento typ zprávy není v současnosti podporován. Všechny možnosti získáte po přejití na http://web.skype.com.	null	null	null
+Maximize the chat	Maximalizovat chat	null	null	null
+Pause	Pozastavit	null	null	null
+Play	Přehrát	null	null	null
+Unable to send a message. Please try again later	Nelze odeslat zprávu. Zkuste to znovu později.	null	null	null
+Download	Stáhnout	null	null	null
+Call ended	Hovor skončil.	null	null	null
+Group call ended	Skupinový hovor skončil.	null	null	null
+Error	Chyba	null	null	null
+{ext} File	Soubor {ext}	null	null	null
+h	h	null	null	null
+Malware Found	Byl nalezen malware	null	null	null
+m	m	null	null	null
+Shortcut for minute	Zkratka minuty	null	null	null
+Missed call	Zmeškaný hovor	null	null	null
+Missed call from {fromParticipant}	Zmeškaný hovor od účastníka {fromParticipant}	null	null	null
+Missed group call	Zmeškaný skupinový hovor	null	null	null
+Call, no answer	Hovor, bez odpovědi	null	null	null
+Group call, no answer	Skupinový hovor, bez odpovědi	null	null	null
+Ongoing call	Probíhající hovor	null	null	null
+photo	fotka	null	null	null
+Text displayed in message preview for image	Text zobrazený v náhledu zprávy pro obrázek	null	null	null
+Retry	Opakovat	null	null	null
+Scanning	Prohledávání	null	null	null
+s	s	null	null	null
+Shortcut for second	Zkratka sekundy	null	null	null
+Call started	Hovor byl zahájen.	null	null	null
+Group call	Skupinový hovor	null	null	null
+Upload Complete	Nahrávání bylo dokončeno	null	null	null
+Upload Failed	Nahrávání se nezdařilo.	null	null	null
+Uploading	Nahrávání	null	null	null
+You have left the conversation	Opustili jste konverzaci.	null	null	null
+To make this call, the microphone needs to be connected with granted permission	Aby bylo možné uskutečnit tento hovor, musí být připojený mikrofon s udělenými oprávněními.	null	null	null
+Minimize the chat	Minimalizovat chat	null	null	null
+By chatting below, you agree to the {0}Microsoft services agreement{1} and {2}privacy statement{3}.	Chatováním níže vyjadřujete souhlas se {0}smlouvou o poskytování služeb společnosti Microsoft{1} a {2}prohlášením o zásadách ochrany osobních údajů{3}.	null	null	null
+Voice calls and chats	Hlasová volání a chaty	null	null	null
+Start connecting your Skype	Začněte s propojením svého Skypu	null	null	null
+Connecting Skype with MSN requires a Microsoft account to get set up.	Propojení Skypu s MSN vyžaduje k dokončení nastavení účet Microsoft.	null	null	null
+See who's online	Podívejte se, kdo je online.	null	null	null
+CREATE NOW	VYTVOŘIT NYNÍ	null	null	null
+Notifications and missed messages	Upozornění a zmeškané zprávy	null	null	null
+SIGN IN	PŘIHLÁSIT SE	null	null	null
+Already have a Microsoft account?	Již máte účet Microsoft?	null	null	null
+Don't have a Microsoft account?	Nemáte účet Microsoft?	null	null	null
+Skype on MSN	Skype v síti MSN	null	null	null
+{count} mutual friend	{count} vzájemný přítel	null	null	null
+{count} mutual friends	Počet vzájemných přátel: {count}	null	null	null
+Done	Hotovo	null	null	null
+Enter group name...	Zadat název skupiny...	null	null	null
+New Chat	Nová konverzace	null	null	null
+SELECT WHO YOU WOULD LIKE TO CHAT WITH	VYBERTE, S KÝM CHCETE CHATOVAT	null	null	null
+To:	Komu:	null	null	null
+Start chat with {participant}	Zahájit chat s {participant}	null	null	null
+No connection	Žádné připojení	null	null	null
+Unread chats: {name}	Nepřečtené chaty: {name}	null	null	null
+{count} unread chat	Počet nepřečtených konverzací: {count}	null	null	null
+"Text of the notification description when user has more than 2 new unread messages in a chat{Locked=""""{count}""""}"""""	Text v popisu upozornění v případě	" že má uživatel v chatu více než 2 nové nepřečtené zprávy {Locked=""""{count}""""}"""""		All	Skype Web App
+{count} unread chats	Počet nepřečtených chatů: {count}	null	null	null
+"Text of notification when user has more than 2 new unread messages in few chats {Locked=""""{count}""""}"""""	Text v popisu upozornění v případě	" že má uživatel v několika chatech více než 2 nové nepřečtené zprávy {Locked=""""{count}""""}"""""		All	Skype Web App
+Incoming Calls	Příchozí hovory	null	null	null
+Chat	Chat	null	null	null
+Display a notification	Zobrazit oznámení	null	null	null
+Display a notification and play a sound	Zobrazit oznámení a přehrát zvuk	null	null	null
+Do nothing	Nedělat nic	null	null	null
+You have {count} unread conversation	Máte {count} nepřečtenou konverzaci	null	null	null
+You have {count} unread conversation	Počet nepřečtených konverzací: {count}	null	null	null
+Text of notification that appears right after user loggs in if he has unread conversations	Text oznámení, které se objeví vpravo po přihlášení, pokud má uživatel nepřečtené konverzace.	null	null	null
+You have {count} unread conversations	Máte nepřečtené konverzace: {count}	null	null	null
+Open	Otevřít	null	null	null
+Open add participants windows	Otevřít okno přidat účastníky	null	null	null
+Open Skype client	Otevřít klienta Skype	null	null	null
+Open menu	Otevřít nabídku	null	null	null
+Open more actions	Otevřít další akce	null	null	null
+Open chat participants window	Otevřít okno účastníků chatu	null	null	null
+Open show participants window	Otevřít okno zobrazit účastníky	null	null	null
+ or 	nebo	null	null	null
+Chat will be back	Chat se brzy znovu zprovozní	null	null	null
+Sent a picture	Odeslat obrázek	null	null	null
+Service is currently unavailable	Služba momentálně není k dispozici.	null	null	null
+Powered by Skype	Používá technologii Skype	null	null	null
+Away	Pryč	null	null	null
+Be right back	Hned jsem zpátky	null	null	null
+Busy	Nemám čas	null	null	null
+Do not disturb	Nerušit	null	null	null
+Offline	Offline	null	null	null
+Online	Online	null	null	null
+React to this message	Zareagovat na tuto zprávu	null	null	null
+See who reacted with emoticon {key}	Podívejte se, kdo zareagoval emotikonou {key}.	null	null	null
+(you)	(vy)	null	null	null
+More	Další	null	null	null
+Sort by	Seřadit podle	null	null	null
+Views	Zobrazení	null	null	null
+See All in Skype	Zobrazit vše ve Skypu	null	null	null
+Recent	Nedávné	null	null	null
+Time	Čas	null	null	null
+Unread	Nepřečtené	null	null	null
+Compact	Kompaktní	null	null	null
+Standard	Standardní	null	null	null
+Welcome to Skype	Vítá vás Skype	null	null	null
+Start a new chat	Začít nový chat	null	null	null
+"Check it out by clicking the """"{beforePlus}+{afterPlus}"""" at the top to start a new chat."""""	Kliknutím na {beforePlus}+{afterPlus} v horní části nahoře zahajte nový chat.	null	null	null
+Skype recent notification announcements	Poslední přečtená oznámení Skypu	null	null	null
+Recent chats	Poslední chaty	null	null	null
+Loading chats...	Načítání chatů…	null	null	null
+New Conversation	Nová konverzace	null	null	null
+Remove {participantName}	Odebrat účastníka {participantName}	null	null	null
+Right now	Hned teď	null	null	null
+{who} updated {whom}'s role to {role}	Uživatel {who} aktualizoval roli uživatele {whom} na {role}.	null	null	null
+About & Help	Informace a nápověda	null	null	null
+Block contact	Zablokovat kontakt	null	null	null
+Get help	Nápověda	null	null	null
+Create a group	Vytvořit skupinu	null	null	null
+Notification Settings	Nastavení oznámení	null	null	null
+Privacy and Cookies	Ochrana osobních údajů a soubory cookie	null	null	null
+Report a problem	Nahlásit problém	null	null	null
+Send feedback	Poslat názor	null	null	null
+Third Party Notices	Oznámení třetích stran	null	null	null
+Unblock contact	Odblokovat kontakt	null	null	null
+Version Number {version}	Číslo verze: {version}	null	null	null
+Card	Karta	null	null	null
+Cards	Karty	null	null	null
+Learn more	Další informace	null	null	null
+Show next	Zobrazit další	null	null	null
+Show previous	Zobrazit předchozí	null	null	null
+Show all	Zobrazit vše	null	null	null
+Enlarge image	Zvětšit obrázek	null	null	null
+Show less	Zobrazit méně	null	null	null
+Connect	Připojit	null	null	null
+Tax	Daň	null	null	null
+Sent you a message	Poslal(a) vám zprávu.	null	null	null
+Total	Celkem	null	null	null
+This card is currently not supported on this version of Skype.	Tato karta není v této verzi Skype momentálně podporována.	null	null	null
+Next	Další	null	null	null
+VAT	DPH	null	null	null
+Say 'hi'	Pozdravte	null	null	null
+Say hi to a bot	Pozdravte robota	null	null	null
+Scroll to bottom	Posunout dolů	null	null	null
+Search	Hledat	null	null	null
+Search people and chats	Hledat lidi a chaty	null	null	null
+No results found	Nebyly nalezeny žádné výsledky.	null	null	null
+{resultscount} RESULTS	VÝSLEDKY: {resultscount} 	null	null	null
+Send file	Poslat soubor	null	null	null
+Send message	Poslat zprávu	null	null	null
+Sending	Odesílání	null	null	null
+This person is currently using Skype for Business. Some chat features won’t be available.	Tento uživatel používá Skype pro firmy. Některé funkce chatu nebudou dostupné.	null	null	null
+Show collapsed chats	Zobrazit sbalené chaty	null	null	null
+Show incoming video	Zobrazit příchozí video	null	null	null
+Show options	Zobrazit možnosti	null	null	null
+Sign in	Přihlásit se	null	null	null
+Cancel	Zrušit	null	null	null
+sign in	přihlášení	null	null	null
+Sign in to save your chat	Chcete-li uložit chat, přihlaste se.	null	null	null
+Please sign in to start chatting	Chcete-li zahájit chat, přihlaste se.	null	null	null
+Sign up!	Zaregistrujte se	null	null	null
+Start an audio call	Zahájit audiohovor	null	null	null
+Start chatting	Začít chatovat	null	null	null
+Start a video call	Zahájit videohovor	null	null	null
+Administrator has disabled chat for this user	Správce zakázal chat pro tohoto uživatele.	null	null	null
+Administrator has disabled chat for one or more users	Správce zakázal chat pro jednoho nebo více uživatelů.	null	null	null
+All	Vše	null	null	null
+Bots	Roboti	null	null	null
+Cancel edit	Zrušit úpravy	null	null	null
+Chats	Chaty	null	null	null
+Contacts	Kontakty	null	null	null
+Favorites	Oblíbené	null	null	null
+Hide favorites	Skrýt oblíbené položky	null	null	null
+Show favorites	Zobrazit oblíbené položky	null	null	null
+People	Lidé	null	null	null
+They are speaking {theirLanguage}	Mluví jazykem {theirLanguage}	null	null	null
+{participant} has changed the conversation picture	Uživatel {participant} změnil obrázek konverzace.	null	null	null
+{minutes} min ago	Před {minutes} min	null	null	null
+ to save your chat.	 pro uložení chatu.	null	null	null
+ to switch accounts.	 pro přepnutí účtu.	null	null	null
+{participant} has changed the conversation topic to '{topic}'	Uživatel {participant} změnil téma konverzace na {topic}.	null	null	null
+Translator: {0}active{1}	Překladač: {0}aktivní{1}	null	null	null
+{typingMessage} is responding...	{typingMessage} odpovídá…	null	null	null
+{typingMessage} is typing...	{typingMessage} píše…	null	null	null
+Loading...	Načítání…	null	null	null
+Somebody	Někdo	null	null	null
+Unread from here	Odtud označit jako nepřečtené	null	null	null
+Unread messages	Nepřečtené zprávy	null	null	null
+End call	Ukončit hovor	null	null	null
+Mute	Ztlumit	null	null	null
+Share screen	Sdílet obrazovku	null	null	null
+Stop sharing	Přestat sdílet	null	null	null
+Turn off incoming video	Vypnout příchozí video	null	null	null
+Turn off video	Vypnout video	null	null	null
+Turn on incoming video	Zapnout příchozí video	null	null	null
+Turn on video	Zapnout video	null	null	null
+Unmute	Zrušit ztlumení	null	null	null
+Exit fullscreen	Ukončit režim celé obrazovky	null	null	null
+You need to wait for {user_name}'s reply to continue chatting.	Pokud chcete pokračovat v chatování, budete muset počkat na odpověď od uživatele {user_name}.	null	null	null
+{participant} added {contact} to this conversation	Uživatel {participant} přidal uživatele {contact} do této konverzace.	null	null	null
+{participant} has removed {removedParticipant} from this conversation	Uživatel {participant} odebral uživatele {removedParticipant} z této konverzace.	null	null	null
+Welcome back, {displayName}	Vítejte zpět, {displayName}	null	null	null
+Welcome back, 	Vítejte zpět, 	null	null	null
+You are speaking {myLanguage}	Mluvíte jazykem {myLanguage}	null	null	null
+You cannot sign in when guest only mode enabled	Při aktivním režimu pouze host se nelze přihlásit.	null	null	null

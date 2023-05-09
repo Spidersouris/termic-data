@@ -1,0 +1,67 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Skype",,"Skype",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision",,"Aprovisionar",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search",,"Buscar",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Verify email",,"Verificar correo electrónico",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search for Common Area Phones only",,"Buscar solo teléfonos de área común",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID",,"Id. de correlación",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Status",,"Estado",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Time",,"Hora",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Action",,"Acción",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display Name",,"Nombre para mostrar",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing Code",,"Código de emparejamiento",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Phone Number",,"Número de teléfono",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Type",,"Tipo",,"Text",,"All",,"Online Device Pairing 2016",,""
+"UPN",,"UPN",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP",,"CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Unknown",,"Desconocido",,"Text",,"All",,"Online Device Pairing 2016",,""
+"User",,"Usuario",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Additional technical information:",,"Información técnica adicional:",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 1",,"Paso 1",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Boot up the Common Area Phone, and select ""CAP Provisioning""."",,""Encienda el teléfono del área común y seleccione ""Aprovisionamiento de teléfono de área común""."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 2",,"Paso 2",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Search for the Common Area Phone account you want to provision, enter the code displayed on the phone, and then click ""Provision""."",,""Busque la cuenta de teléfono de área común que desee aprovisionar, introduzca el código que se muestra en el teléfono y después haga clic en ""Aprovisionar""."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Tenant Admin Common Area Phone Provisioning Portal",,"Portal de aprovisionamiento del teléfono de área común del administrador de inquilinos",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID: ",,"Id. de correlación:",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Something went wrong, try again later",,"Se ha producido un problema. Vuelva a intentarlo más tarde.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Enter your work or school email address.",,"Introduzca su dirección de correo profesional o educativa.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We ran into a problem.",,"Hemos encontrado un problema.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don't have permission to provision Common Area Phones.",,"No tiene permiso para aprovisionar teléfonos de área común.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"No results found.",,"No se encontró ningún resultado.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don’t have a Skype for Business Online account.",,"No tiene una cuenta de Skype Empresarial Online.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please select one of the other authentication methods available on your phone, or contact your admin for support.",,"Seleccione uno de los otros métodos de autenticación disponibles en su teléfono o póngase en contacto con su administrador para recibir asistencia.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You entered an email address for a personal account.",,"Ha especificado una dirección de correo electrónico de una cuenta personal.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter your work or school email address.",,"Introduzca su dirección de correo profesional o educativa.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision failed",,"Error al aprovisionar",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Access denied",,"Acceso denegado",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Invalid pairing code",,"Código de emparejamiento no válido",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter a pairing code",,"Inserte un código de emparejamiento",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing code has already been used",,"El código de emparejamiento ya se ha utilizado",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision History",,"Historial de aprovisionamiento",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision succeeded",,"El aprovisionamiento se ha realizado correctamente",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provisioning...",,"Aprovisionando...",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Note: Clicking on ""Provision"" button will reset the account’s password to a random string."",,""Nota: Si hace clic en el botón ""Aprovisionar"", se restablecerá la contraseña de la cuenta a una cadena aleatoria."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Too many concurrent requests from your IP address. Please try again later.",,"Demasiadas solicitudes simultáneas de su dirección IP. Vuelva a intentarlo más tarde.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search Results",,"Resultados de la búsqueda",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You signed out successfully.",,"Ha cerrado la sesión correctamente.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We found too many results matching your search criteria. Please refine your search.",,"Se han encontrado demasiados resultados que coinciden con tus criterios de búsqueda. Restringe la búsqueda.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign out",,"Cerrar sesión",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Skype for Business Web Sign-in",,"Inicio de sesión en la aplicación web de Skype Empresarial",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP Provisioning",,"Aprovisionamiento de CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error",,"Error",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Home Page",,"Página principal",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign Out",,"Cerrar sesión",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Email address",,"Dirección de correo electrónico",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display name or email address",,"Nombre para mostrar o dirección de correo electrónico",,"Text",,"All",,"Online Device Pairing 2016",,""

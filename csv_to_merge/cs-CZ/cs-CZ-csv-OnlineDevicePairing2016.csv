@@ -1,0 +1,67 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Skype",,"Skype",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision",,"Zřídit",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search",,"Hledání",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Verify email",,"Ověřit e-mail",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search for Common Area Phones only",,"Hledat pouze telefony pro veřejné prostory",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID",,"ID korelace",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Status",,"Stav",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Time",,"Čas",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Action",,"Akce",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display Name",,"Zobrazované jméno",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing Code",,"Kód pro párování",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Phone Number",,"Telefonní číslo",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Type",,"Typ",,"Text",,"All",,"Online Device Pairing 2016",,""
+"UPN",,"UPN",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP",,"CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Unknown",,"Neznámý",,"Text",,"All",,"Online Device Pairing 2016",,""
+"User",,"Uživatel",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Additional technical information:",,"Další technické údaje:",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 1",,"Krok 1",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Boot up the Common Area Phone, and select ""CAP Provisioning""."",,"Spusťte telefon společné oblasti (CAP) a vyberte možnost „Zřizování CAP“.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 2",,"Krok 2",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Search for the Common Area Phone account you want to provision, enter the code displayed on the phone, and then click ""Provision""."",,"Vyhledejte účet telefonu společné oblasti, který chcete zřídit, zadejte kód zobrazený v telefonu a klikněte na možnost „Zřídit“.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Tenant Admin Common Area Phone Provisioning Portal",,"Správce klienta portálu pro zřizování telefonu pro společnou oblast",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID: ",,"ID korelace:",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Something went wrong, try again later",,"Došlo k nějaké chybě, opakujte akci později",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Enter your work or school email address.",,"Zadejte svou pracovní nebo školní e-mailovou adresu.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We ran into a problem.",,"Narazili jsme na problém.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don't have permission to provision Common Area Phones.",,"Nemáte oprávnění k poskytování telefonů pro veřejné prostory.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"No results found.",,"Nenašly se žádné výsledky.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don’t have a Skype for Business Online account.",,"Nemáte účet pro Online Skype pro firmy.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please select one of the other authentication methods available on your phone, or contact your admin for support.",,"Vyberte jednu z dalších metod ověřování dostupných v telefonu, nebo požádejte o podporu správce.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You entered an email address for a personal account.",,"Zadali jste e-mailovou adresu pro osobní účet.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter your work or school email address.",,"Zadejte pracovní nebo školní e-mailovou adresu.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision failed",,"Zřízení se nepodařilo.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Access denied",,"Přístup odepřen",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Invalid pairing code",,"Neplatný kód pro párování",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter a pairing code",,"Zadejte párovací kód",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing code has already been used",,"Kód pro párování se už používá.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision History",,"Historie zřizování",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision succeeded",,"Zřízení bylo úspěšné.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provisioning...",,"Zřizování...",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Note: Clicking on ""Provision"" button will reset the account’s password to a random string."",,"Poznámka: Kliknutím na tlačítko „Zřídit“ se přenastaví heslo k účtu na náhodný řetězec.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Too many concurrent requests from your IP address. Please try again later.",,"Příliš mnoho souběžných požadavků z vaší IP adresy. Zkuste to znovu později.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search Results",,"Výsledky hledání",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You signed out successfully.",,"Úspěšně jste se odhlásili.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We found too many results matching your search criteria. Please refine your search.",,"Bylo nalezeno příliš mnoho výsledků odpovídajících kritériím vyhledávání. Upřesněte hledání.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign out",,"Odhlásit se",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Skype for Business Web Sign-in",,"Skype for Business – webové přihlášení",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP Provisioning",,"Zřizování CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error",,"Chyba",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Home Page",,"Úvodní stránka",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign Out",,"Odhlásit se",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Email address",,"E-mailová adresa",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display name or email address",,"Zobrazované jméno nebo e-mailová adresa",,"Text",,"All",,"Online Device Pairing 2016",,""

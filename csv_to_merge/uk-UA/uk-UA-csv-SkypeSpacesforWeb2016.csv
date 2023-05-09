@@ -1,0 +1,63 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Data from {0}",,"Джерело даних: {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Delayed 15 minutes.",,"Затримка на 15 хвилин.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"More details",,"Докладно",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"News",,"Новини",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"No results found.",,"Не знайдено результатів.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"After hours",,"Неробочий час",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Percentage change",,"Зміна у відсотках",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Price change",,"Зміна ціни",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"When",,"Коли",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Image may be subject to copyright</a>"",,""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Це зображення може бути захищено законом про авторське право.</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Image",,"Зображення",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""{0}"">View original</a>"",,""<a href=""{0}"">Переглянути оригінал</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Не вдалося знайти результатів за вашим пошуковим запитом.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Information from {0}",,"Джерело інформації: {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Bing Maps",,"Карти Bing",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Confirm location",,"Підтвердити розташування",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Daily",,"Щодня",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0} to {1}",,"З {0} по {1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Directions",,"Маршрути",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Hotel",,"Готель",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Enter a search term (a business name, landmark, zip code, or city) to get more info",,"Введіть пошуковий термін (назва компанії, орієнтир, поштовий індекс або місто), щоб отримати додаткову інформацію.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Local business",,"Місцевий бізнес",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Map of {0}",,"Карта: {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours",,"Працює цілодобово",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours a day",,"Працює цілодобово щодня",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Permanently closed",,"Остаточно закрито",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Restaurant",,"Ресторан",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"({0} reviews)",,"(Відгуків: {0})",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"(1 review)",,"(1 відгук)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0}–{1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Tourist attraction",,"Туристична пам’ятка",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Go to website",,"Перейти на веб-сайт",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°C",,"°C",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°F",,"°F",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Feels like",,"Відчувається як",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"High / Low temperature",,"Висока/низька температура",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Humidity",,"Вологість",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find a forecast for that location.",,"Не вдалося знайти прогноз для цього розташування.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Chance of precipitation",,"Імовірність опадів",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Wind",,"Швидкість вітру",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"LIVE",,"НАЖИВО",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"views",,"перегл.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"watching",,"дивляться",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Places",,"Місця",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Use this location",,"Використати це розташування",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"We need your location in order to provide accurate results. Use the location we've obtained automatically, or manually set it.",,"Для точних результатів потрібне розташування. Використайте автоматично визначене розташування або налаштуйте його вручну.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""Note: We store your location to improve queries, subject to our <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Privacy Policy</a> and <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Terms of Use</a>."",,""Примітка. Ми зберігаємо ваше розташування, щоб покращити запити згідно з нашою <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Політикою конфіденційності</a> та <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Умовами використання</a>."",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Location",,"Розташування",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Third party notices",,"Повідомлення третіх сторін",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Configure Places",,"Налаштувати місця",,"Text",,"All",,"Skype Spaces for Web 2016",,""

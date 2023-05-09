@@ -1,0 +1,67 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Skype",,"Skype",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision",,"Klargør",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search",,"Søg",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Verify email",,"Bekræft e-mail",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search for Common Area Phones only",,"Søg kun efter offentlige telefoner (CAP)",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID",,"Korrelations-id",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Status",,"Status",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Time",,"Tid",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Action",,"Handling",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display Name",,"Vist navn",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing Code",,"Pardannelseskoden",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Phone Number",,"Telefonnummer",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Type",,"Type",,"Text",,"All",,"Online Device Pairing 2016",,""
+"UPN",,"UPN",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP",,"CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Unknown",,"Ukendt",,"Text",,"All",,"Online Device Pairing 2016",,""
+"User",,"Bruger",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Additional technical information:",,"Yderligere tekniske oplysninger:",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 1",,"Trin 1",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Boot up the Common Area Phone, and select ""CAP Provisioning""."",,""Start fællestelefonen, og vælg ""CAP-klargøring""."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 2",,"Trin 2",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Search for the Common Area Phone account you want to provision, enter the code displayed on the phone, and then click ""Provision""."",,""Søg efter den konto til fællestelefonen, du vil klargøre. Indtast koden, som vises på telefonen, og klik derefter på ""Klargør""."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Tenant Admin Common Area Phone Provisioning Portal",,"Portal for lejeadministration af fælles telefon",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID: ",,"Korrelations-id: ",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Something went wrong, try again later",,"Der gik noget galt. Prøv igen senere",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Enter your work or school email address.",,"Indtast din mailadresse til skole eller arbejde.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We ran into a problem.",,"Vi løb ind i et problem.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don't have permission to provision Common Area Phones.",,"Du har ikke tilladelse til at klargøre fællestelefoner.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"No results found.",,"Ingen resultater.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don’t have a Skype for Business Online account.",,"Du har ikke en Skype for Business-onlinekonto.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please select one of the other authentication methods available on your phone, or contact your admin for support.",,"Vælg en af de andre godkendelsesmetoder, der er tilgængelige på din telefon, eller kontakt administratoren for at få hjælp.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You entered an email address for a personal account.",,"Du har angivet en mailadresse til en personlig konto.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter your work or school email address.",,"Indtast din mailadresse til skole eller arbejde.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision failed",,"Klargøringen mislykkedes",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Access denied",,"Adgang nægtet",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Invalid pairing code",,"Ugyldig pardannelseskode",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter a pairing code",,"Indtast en pardannelseskode",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing code has already been used",,"Pardannelseskoden er allerede blevet brugt",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision History",,"Klargøringshistorik",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision succeeded",,"Klargøringen blev gennemført",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provisioning...",,"Klargøring...",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Note: Clicking on ""Provision"" button will reset the account’s password to a random string."",,""Bemærk: Hvis du klikker på knappen ""Klargør"", nulstilles kontoens adgangskode til en tilfældig streng."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Too many concurrent requests from your IP address. Please try again later.",,"For mange samtidige anmodninger fra din IP-adresse. Prøv igen senere.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search Results",,"Søgeresultater",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You signed out successfully.",,"Du blev logget af.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We found too many results matching your search criteria. Please refine your search.",,"Vi fandt for mange resultater, der opfylder dine søgekriterier. Begræns søgningen.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign out",,"Log af",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Skype for Business Web Sign-in",,"Weblogon til Skype for Business",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP Provisioning",,"CAP-klargøring",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error",,"Fejl",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Home Page",,"Hjemmeside",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign Out",,"Log af",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Email address",,"E-mailadresse",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display name or email address",,"Vist navn eller mailadresse",,"Text",,"All",,"Online Device Pairing 2016",,""

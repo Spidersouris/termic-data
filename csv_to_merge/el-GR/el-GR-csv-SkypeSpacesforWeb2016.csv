@@ -1,0 +1,63 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Data from {0}",,"Δεδομένα από {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Delayed 15 minutes.",,"Καθυστέρηση 15 λεπτών.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"More details",,"Περισσότερες λεπτομέρειες",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"News",,"Ειδήσεις",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"No results found.",,"Δεν βρέθηκαν αποτελέσματα.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"After hours",,"Εκτός ωραρίου",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Percentage change",,"Αλλαγή ποσοστού",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Price change",,"Αλλαγή τιμής",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"When",,"Πότε",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Image may be subject to copyright</a>"",,""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Η εικόνα ενδέχεται να προστατεύεται από πνευματικά δικαιώματα</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Image",,"Εικόνα",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""{0}"">View original</a>"",,""<a href=""{0}"">Προβολή πρωτοτύπου</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Δεν ήταν δυνατή η εύρεση στοιχείων που να αντιστοιχούν στον όρο της αναζήτησής σας.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Information from {0}",,"Πληροφορίες από {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Bing Maps",,"Χάρτες Bing",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Confirm location",,"Επιβεβαιώστε την τοποθεσία",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Daily",,"Καθημερινά",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0} to {1}",,"{0} έως {1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Directions",,"Οδηγίες",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Hotel",,"Ξενοδοχείο",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Enter a search term (a business name, landmark, zip code, or city) to get more info",,"Εισαγάγετε έναν όρο αναζήτησης (όνομα επιχείρησης, γνωστό σημείο, ταχυδρομικό κώδικα ή πόλη) για λήψη περισσότερων πληροφοριών",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Local business",,"Τοπική επιχείρηση",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Map of {0}",,"Χάρτης για {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours",,"Ανοιχτά 24 ώρες",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours a day",,"Ανοιχτά 24 ώρες το 24ωρο",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Permanently closed",,"Μόνιμα κλειστό",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Restaurant",,"Εστιατόριο",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"({0} reviews)",,"({0} κριτικές)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"(1 review)",,"(1 κριτική)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0}–{1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Tourist attraction",,"Τουριστικό αξιοθέατο",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Go to website",,"Μετάβαση στην τοποθεσία Web",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°C",,"°C",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°F",,"°F",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Feels like",,"Αισθητή θερμοκρασία",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"High / Low temperature",,"Υψηλή / χαμηλή θερμοκρασία",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Humidity",,"Υγρασία",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find a forecast for that location.",,"Δεν ήταν δυνατή η εύρεση πρόβλεψης για αυτήν την τοποθεσία.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Chance of precipitation",,"Πιθανότητα υετού",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Wind",,"Άνεμος",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"LIVE",,"ΖΩΝΤΑΝΑ",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"views",,"προβολές",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"watching",,"παρακολουθούν",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Places",,"Περιοχές",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Use this location",,"Χρήση αυτής της τοποθεσίας",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"We need your location in order to provide accurate results. Use the location we've obtained automatically, or manually set it.",,"Χρειαζόμαστε την τοποθεσία σας για να παρέχουμε ακριβή αποτελέσματα. Χρησιμοποιήστε την τοποθεσία που λάβαμε αυτόματα ή ορίστε την τοποθεσία με μη αυτόματο τρόπο.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""Note: We store your location to improve queries, subject to our <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Privacy Policy</a> and <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Terms of Use</a>."",,""Σημείωση: Αποθηκεύουμε την τοποθεσία σας για τη βελτίωση των ερωτημάτων, σύμφωνα την <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Πολιτική προστασίας προσωπικών δεδομένων</a> και τους <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Όρους χρήσης</a>."",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Location",,"Τοποθεσία",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Third party notices",,"Γνωστοποιήσεις τρίτων",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Configure Places",,"Διαμόρφωση περιοχών",,"Text",,"All",,"Skype Spaces for Web 2016",,""

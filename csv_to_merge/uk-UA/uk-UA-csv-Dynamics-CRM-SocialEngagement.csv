@@ -1,0 +1,39 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Social Insights for Dynamics 365.",,"Соціальні аналітичні огляди для Dynamics 365.",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Dynamics 365",,"Dynamics 365",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Social Insights",,"Соціальні аналітичні огляди",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Shows the dialog for configuring Social Insights in Dynamics 365",,"Показує діалогове вікно для настроювання соціальних аналітичних оглядів у Dynamics 365",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Social Insights Configuration",,"Конфігурація соціальних аналітичних оглядів",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Apply",,"Застосувати",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Configure Social Insights",,"Настроїти соціальні аналітичні огляди",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Cancel",,"Скасувати",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Unable to connect to Social Engagement. Try again or if the problem persists, contact your system administrator.",,"Не вдалося підключитися до Social Engagement. Повторіть спробу пізніше. Якщо проблема не зникне, зверніться до системного адміністратора.",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Social Insights isn't configured. Select the Edit option from the menu above.",,""Соціальні аналітичні огляди не настроєно. Виберіть пункт ""Змінити"" в меню вище."",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Create new topic on Microsoft Social Engagement",,"Створити нову тему в Microsoft Social Engagement",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Create new topic",,"Створити нову тему",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"on Microsoft Social Engagement",,"у Microsoft Social Engagement",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Edit",,"Змінити",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Something went wrong. Try again or if the problem persists, contact your system administrator.",,"Сталася помилка. Спробуйте ще раз. Якщо проблема не зникає, зверніться до системного адміністратора.",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Social Insights is not supported for this version of Dynamics 365.",,"У цій версії Dynamics 365 не підтримуються соціальні аналітичні огляди.",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Configure Social Engagement in your Dynamics 365 settings or contact your system administrator.",,"Настройте Social Engagement у параметрах Dynamics 365 або зверніться до системного адміністратора.",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Remove data",,"Видалити дані",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"You must be connected to the internet to see this data.",,"Щоб переглянути ці дані, потрібно підключення до Інтернету.",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"All Categories",,"Усі категорії",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Choose topic or category",,"Виберіть тему або категорію",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Add",,"Додати",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Delete",,"Видалити",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"No widgets added yet",,"Віджети ще не додано",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"No widgets left",,"Віджетів не залишилося",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""
+"Visualization",,"Графічне відображення",,"Text",,"All",,"Dynamics - CRM - Social Engagement",,""

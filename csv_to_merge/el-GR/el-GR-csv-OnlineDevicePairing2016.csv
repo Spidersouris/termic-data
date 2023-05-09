@@ -1,0 +1,67 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Skype",,"Skype",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision",,"Παροχή",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search",,"Αναζήτηση",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Verify email",,"Επαλήθευση email",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search for Common Area Phones only",,"Αναζήτηση μόνο για κοινόχρηστα τηλέφωνα",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID",,"Αναγνωριστικό συσχέτισης",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Status",,"Κατάσταση",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Time",,"Ώρα",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Action",,"Ενέργεια",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display Name",,"Εμφανιζόμενο όνομα",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing Code",,"Κωδικός ζεύξης",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Phone Number",,"Αριθμός τηλεφώνου",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Type",,"Τύπος",,"Text",,"All",,"Online Device Pairing 2016",,""
+"UPN",,"UPN",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP",,"CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Unknown",,"Άγνωστο",,"Text",,"All",,"Online Device Pairing 2016",,""
+"User",,"Χρήστης",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Additional technical information:",,"Πρόσθετες τεχνικές πληροφορίες:",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 1",,"Βήμα 1",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Boot up the Common Area Phone, and select ""CAP Provisioning""."",,""Εκκινήστε το τηλέφωνο κοινόχρηστης περιοχής και επιλέξτε ""Παροχή CAP""."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Step 2",,"Βήμα 2",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Search for the Common Area Phone account you want to provision, enter the code displayed on the phone, and then click ""Provision""."",,""Πραγματοποιήστε αναζήτηση για το λογαριασμό τηλεφώνου κοινόχρηστης περιοχής που θέλετε να παράσχετε, καταχωρήστε τον κωδικό που εμφανίζεται στο τηλέφωνο και στη συνέχεια κάντε κλικ στην επιλογή ""Παροχή""."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Tenant Admin Common Area Phone Provisioning Portal",,"Πύλη παροχής κοινόχρηστων τηλεφώνων διαχείρισης μισθωτών",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Correlation ID: ",,"Αναγνωριστικό συσχέτισης: ",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Something went wrong, try again later",,"Παρουσιάστηκε κάποιο πρόβλημα, προσπαθήστε ξανά αργότερα",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Enter your work or school email address.",,"Πληκτρολογήστε την εταιρική ή σχολική διεύθυνση email σας.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We ran into a problem.",,"Παρουσιάστηκε κάποιο πρόβλημα.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don't have permission to provision Common Area Phones.",,"Δεν έχετε άδεια για παροχή τηλεφώνων κοινόχρηστης περιοχής.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"No results found.",,"Δεν βρέθηκαν αποτελέσματα.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You don’t have a Skype for Business Online account.",,"Δεν διαθέτετε λογαριασμό Skype για επιχειρήσεις Online.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please select one of the other authentication methods available on your phone, or contact your admin for support.",,"Επιλέξτε μία από τις άλλες μεθόδους ελέγχου ταυτότητας που είναι διαθέσιμες στο τηλέφωνό σας ή επικοινωνήστε με το διαχειριστή σας για υποστήριξη.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You entered an email address for a personal account.",,"Εισαγάγατε μια διεύθυνση ηλεκτρονικού ταχυδρομείου για προσωπικό λογαριασμό.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter your work or school email address.",,"Πληκτρολογήστε την εταιρική ή σχολική διεύθυνση email σας.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision failed",,"Η παροχή απέτυχε",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Access denied",,"Η πρόσβαση απορρίφθηκε",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Invalid pairing code",,"Μη έγκυρος κωδικός ζεύξης",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Please enter a pairing code",,"Πληκτρολογήστε έναν κωδικό ζεύξης",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Pairing code has already been used",,"Ο κωδικός ζεύξης έχει ήδη χρησιμοποιηθεί",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision History",,"Ιστορικό παροχής",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provision succeeded",,"Η παροχή ολοκληρώθηκε με επιτυχία",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Provisioning...",,"Παροχή...",,"Text",,"All",,"Online Device Pairing 2016",,""
+""Note: Clicking on ""Provision"" button will reset the account’s password to a random string."",,""Σημείωση: Εάν κάνετε κλικ στο κουμπί ""Παροχή"" θα γίνει επαναφορά του κωδικού πρόσβασης του λογαριασμού σε τυχαία συμβολοσειρά."",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Too many concurrent requests from your IP address. Please try again later.",,"Υπερβολικά πολλές ταυτόχρονες αιτήσεις από τη διεύθυνση IP σας. Προσπαθήστε ξανά αργότερα.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Search Results",,"Αποτελέσματα αναζήτησης",,"Text",,"All",,"Online Device Pairing 2016",,""
+"You signed out successfully.",,"Αποσυνδεθήκατε με επιτυχία.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"We found too many results matching your search criteria. Please refine your search.",,"Βρήκαμε πολλά αποτελέσματα που αντιστοιχούν στα κριτήρια της αναζήτησής σας. Περιορίστε την αναζήτησή σας.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign out",,"Αποσύνδεση",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Skype for Business Web Sign-in",,"Είσοδος στο Skype για επιχειρήσεις Web",,"Text",,"All",,"Online Device Pairing 2016",,""
+"CAP Provisioning",,"Παροχή CAP",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error",,"Σφάλμα",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Home Page",,"Αρχική σελίδα",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Sign Out",,"Αποσύνδεση",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Email address",,"Διεύθυνση email",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Display name or email address",,"Εμφανιζόμενο όνομα ή διεύθυνση email",,"Text",,"All",,"Online Device Pairing 2016",,""

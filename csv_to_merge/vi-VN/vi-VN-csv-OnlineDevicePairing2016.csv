@@ -1,0 +1,35 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"This report shows client building and subnet pairs which experienced firewall issues while connecting to the server in last two months",,"Báo cáo này hiển thị cặp mạng con và tòa nhà khách hàng gặp phải sự cố tường lửa khi kết nối với máy chủ trong hai tháng qua",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Filter: {DataFilterColumnName}",,"Bộ lọc: {DataFilterColumnName}",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Microsoft Call Quality Dashboard",,"Bảng điều khiển chất lượng cuộc gọi của Microsoft",,"Text",,"All",,"Online Device Pairing 2016",,""
+"It looks like your Office 365 or Skype for Business tenant was recently created. Please check back in 24 hours to activate the Call Quality Dashboard.",,"Có vẻ như gần đây đối tượng thuê Office 365 hoặc Skype for Business của bạn đã được tạo. Vui lòng kiểm tra lại trong 24 giờ để kích hoạt Bảng điều khiển chất lượng cuộc gọi.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error: Column data size is too large at column number: {0}",,"Lỗi: Kích thước dữ liệu trong cột quá lớn tại cột số: {0}",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Upload your information - Information you add will be visible to Microsoft engineers for support purposes",,"Tải lên thông tin của bạn - Thông tin bạn thêm sẽ được hiển thị với các kỹ sư của Microsoft nhằm các mục đích hỗ trợ",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Audio - Quality",,"Âm thanh - Chất lượng",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Audio - Reliability",,"Âm thanh - Độ tin cậy",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Call Volume",,"Âm lượng cuộc gọi",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Failed %",,"Luồng phương tiện không thành công %",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Failed Volume",,"Số luồng phương tiện không thành công",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Succeeded Volume",,"Số luồng phương tiện thành công",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Volume",,"Số luồng phương tiện",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Rating Count",,"Số lượng xếp hạng",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Second Subnet",,"Mạng con thứ hai",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client AppSharing Streams Buildings and Subnets",,"Mạng con và tòa nhà sử dụng Truyền phát chia sẻ ứng dụng máy chủ máy khách",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client Audio Streams Buildings and Subnets",,"Mạng con và tòa nhà sử dụng Truyền phát âm thanh máy chủ-máy khách",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client VBSS Streams Buildings and Subnets",,"Mạng con và tòa nhà sử dụng Truyền phát VBSS máy chủ-máy khách",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client Video Streams Buildings and Subnets",,"Mạng con và tòa nhà sử dụng truyền phát video máy chủ-máy khách",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media failed volume",,"số luồng phương tiện không thành công",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media succeeded volume",,"số luồng phương tiện thành công",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media volume",,"số luồng phương tiện",,"Text",,"All",,"Online Device Pairing 2016",,""
