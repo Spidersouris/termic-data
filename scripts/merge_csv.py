@@ -4,7 +4,7 @@ import glob
 lang = "fr-FR" # Put your language code here
 csv_files = glob.glob(f"../csv_to_merge/{lang}/*.csv")
 
-for i, csv_file in csv_files:
+for i, csv_file in enumerate(csv_files):
     print(f"Reading file {csv_file}… ({i+1}/{len(csv_files)})")
     try:
         df = pd.read_csv(csv_file, skiprows=13, delimiter=",", encoding="utf-8", on_bad_lines="warn")
