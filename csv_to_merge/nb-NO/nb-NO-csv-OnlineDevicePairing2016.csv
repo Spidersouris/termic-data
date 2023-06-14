@@ -1,0 +1,35 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"This report shows client building and subnet pairs which experienced firewall issues while connecting to the server in last two months",,"Denne rapporten viser klientens bygning- og delnett-par som hadde problemer med brannmuren under tilkobling til serveren de siste to månedene",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Filter: {DataFilterColumnName}",,"Filter: {DataFilterColumnName}",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Microsoft Call Quality Dashboard",,"Microsofts Instrumentbord for samtalekvalitet",,"Text",,"All",,"Online Device Pairing 2016",,""
+"It looks like your Office 365 or Skype for Business tenant was recently created. Please check back in 24 hours to activate the Call Quality Dashboard.",,"Det ser ut til at Office 365- eller Skype for Business-leieren din ble opprettet nylig. Kom tilbake om 24 timer for å aktivere instrumentbordet for samtalekvalitet.",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Error: Column data size is too large at column number: {0}",,"Feil: Kolonnedatastørrelsen er for stor ved kolonne nummer: {0}",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Upload your information - Information you add will be visible to Microsoft engineers for support purposes",,"Last opp informasjon – Informasjon som du legger til, vil være synlig for Microsofts teknikere for kundestøtteformål",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Audio - Quality",,"Lyd – kvalitet",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Audio - Reliability",,"Lyd – pålitelighet",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Call Volume",,"Ringevolum",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Failed %",,"Media mislyktes %",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Failed Volume",,"Media mislyktes-volum",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Succeeded Volume",,"Media var vellykket-volum",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Media Volume",,"Media-volum",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Rating Count",,"Antall vurderinger",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Second Subnet",,"Andre delnett",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client AppSharing Streams Buildings and Subnets",,"Server-klientens AppSharing strømmer bygninger og delnett",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client Audio Streams Buildings and Subnets",,"Server-klientens lyd strømmer bygninger og delnett",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client VBSS Streams Buildings and Subnets",,"Server-klientens VBSS strømmer bygninger og delnett",,"Text",,"All",,"Online Device Pairing 2016",,""
+"Server-Client Video Streams Buildings and Subnets",,"Server-klient videostrømmer bygninger og delnett",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media failed volume",,"media mislyktes-volum",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media succeeded volume",,"media var vellykket-volum",,"Text",,"All",,"Online Device Pairing 2016",,""
+"media volume",,"media-volum",,"Text",,"All",,"Online Device Pairing 2016",,""
