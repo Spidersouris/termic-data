@@ -10,3 +10,16 @@ This repository contains Microsoft's translation memory and glossary files used 
 - **/scripts**:
   - **convert_to_feather.py**: use this script to convert .csv and .xlsx files to the [feather format](https://arrow.apache.org/docs/python/feather.html),
   - **merge_csv.py**: use this script to merge the .csv files in the **csv_to_merge** folder into one .csv file.
+
+## Usage
+
+_NOTE_: was written specifically for `merge_csv.py`.
+
+Set up a virtualenv:
+
+```
+mkdir -p ~/.cache/virtualenvs
+python3 -m venv ~/.cache/virtualenvs/termic-data
+source ~/.cache/virtualenvs/termic-data/bin/activate
+python3 -m pip install -r ./scripts/requirements.txt
+```

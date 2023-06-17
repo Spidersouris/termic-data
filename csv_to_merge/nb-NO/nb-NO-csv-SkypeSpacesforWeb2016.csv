@@ -1,0 +1,63 @@
+﻿PERMISSION NOTICE
+
+The Microsoft “Terms of Use” (available at the www.microsoft.com website) govern all glossary terms in this document (“Glossary Terms”).  The following supplemental terms and conditions also apply.  If there is any conflict between the Terms of Use and the following terms and conditions, the following terms and conditions will take
+Precedence over the Terms of Use.
+         
+1. No part of the Glossary Terms may be reproduced, adapted, distributed, or transmitted in any form or by any means, electronic, mechanical, or otherwise, including photocopying and entry into an information storage and/or retrieval system, for any purpose without the prior express consent of Microsoft Corporation. 
+
+2. You may use the Glossary Terms in the development of any application software and you may also use the Glossary Terms for personal or non-commercial purposes only without the prior written consent of Microsoft Corporation, and only if all copies contain this Permission Notice and the Microsoft copyright notice in the Terms of Use.         
+                                                                                                                                
+3. You are not permitted to make any modifications, deletions or additions to the Glossary Terms.
+ 
+4. Except as expressly set forth above, Microsoft’s publication of the Glossary Terms does not grant any rights to use, distribute, or implement any technology or intellectual property rights. All rights not expressly granted herein are expressly reserved by Microsoft.
+"Source Term",,"Translation",,"String Category",,"Platform",,"Product",,"Version"
+"Data from {0}",,"Data fra {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Delayed 15 minutes.",,"15 minutter forsinket.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"More details",,"Flere detaljer",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"News",,"Nyheter",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"No results found.",,"Fant ingen resultater.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"After hours",,"Etter arbeidstid",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Percentage change",,"Prosentvis endring",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Price change",,"Prisendring",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"When",,"Når",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Image may be subject to copyright</a>"",,""<a href=""https://go.microsoft.com/fwlink/?linkid=849660"">Bildet kan være underlagt opphavsrett</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Image",,"Bilde",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""<a href=""{0}"">View original</a>"",,""<a href=""{0}"">Vis original</a>"",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find anything matching your search term.",,"Beklager, vi fant ingenting som samsvarte med søketermen.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Information from {0}",,"Informasjon fra {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Bing Maps",,"Bing-kart",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Confirm location",,"Bekreft plassering",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Daily",,"Daglig",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0} to {1}",,"{0} til {1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Directions",,"Veibeskrivelse",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Hotel",,"Hotell",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Enter a search term (a business name, landmark, zip code, or city) to get more info",,"Skriv inn et søkeord (et firmanavn, landemerke, postnummer eller by) for å få mer informasjon",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Local business",,"Lokal bedrift",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Map of {0}",,"Kart over {0}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours",,"Åpen 24 timer",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Open 24 hours a day",,"Åpen 24 timer i døgnet",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Permanently closed",,"Permanent stengt",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Restaurant",,"Restaurant",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"({0} reviews)",,"({0} anmeldelser)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"(1 review)",,"(1 anmeldelse)",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"{0}–{1}",,"{0}–{1}",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Tourist attraction",,"Turistattraksjon",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Go to website",,"Gå til nettstedet",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°C",,"° C",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"°F",,"° F",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Feels like",,"Føles som",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"High / Low temperature",,"Høy/lav temperatur",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Humidity",,"Fuktighet",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Sorry, we couldn't find a forecast for that location.",,"Finner ingen værmelding for dette stedet.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Chance of precipitation",,"Utrygt for regn",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Wind",,"Vind",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"LIVE",,"DIREKTE",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"views",,"visninger",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"watching",,"ser på",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Places",,"Steder",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Use this location",,"Bruk dette stedet",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"We need your location in order to provide accurate results. Use the location we've obtained automatically, or manually set it.",,"Vi må vite hvor du er for å gi deg nøyaktige resultater. Bruk stedet vi har hentet automatisk, eller skriv det inn manuelt.",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+""Note: We store your location to improve queries, subject to our <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">Privacy Policy</a> and <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">Terms of Use</a>."",,""Merk: Vi lagrer stedet ditt for å forbedre spørringer, underlagt våre <a href=""https://go.microsoft.com/fwlink/?linkid=862522"" target=""_blank"">retningslinjer for personvern</a> og <a href=""https://go.microsoft.com/fwlink/?linkid=862521"" target=""_blank"">vilkår for bruk</a>."",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Location",,"Sted",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Third party notices",,"Tredjepartsvarsler",,"Text",,"All",,"Skype Spaces for Web 2016",,""
+"Configure Places",,"Konfigurer steder",,"Text",,"All",,"Skype Spaces for Web 2016",,""
