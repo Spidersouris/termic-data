@@ -1,6 +1,11 @@
 # termic-data
 
-This repository contains Microsoft's translation memory and glossary files used by [termic](https://github.com/Spidersouris/termic). Check the termic repo for more information on data collection.
+> **Warning** <br>
+> **This repo has been archived as termic data is now stored on [Dropbox](https://www.dropbox.com/sh/5oh21rhlmrp7rip/AAB_F2Q9wboJlopMZVTMKD5Ya?dl=0). Scripts are now available on the main [termic](https://github.com/Spidersouris/termic) repo.**
+
+___
+
+This repository contained Microsoft's translation memory and glossary files used by [termic](https://github.com/Spidersouris/termic). Check the termic repo for more information on data collection.
 
 ## Structure
 
@@ -23,3 +28,7 @@ python3 -m venv ~/.cache/virtualenvs/termic-data
 source ~/.cache/virtualenvs/termic-data/bin/activate
 python3 -m pip install -r ./scripts/requirements.txt
 ```
+
+## Contributors
+
+- [benediktkr](https://github.com/benediktkr)
