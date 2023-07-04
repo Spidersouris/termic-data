@@ -1,7 +1,7 @@
 # termic-data
 
 > **Warning** <br>
-> **This repo has been archived as termic data is now stored on [Dropbox](https://www.dropbox.com/sh/5oh21rhlmrp7rip/AAB_F2Q9wboJlopMZVTMKD5Ya?dl=0). Scripts are now available on the main [termic](https://github.com/Spidersouris/termic) repo.**
+> **This repo has been archived as termic data is now stored on [Dropbox](https://www.dropbox.com/sh/5oh21rhlmrp7rip/AAB_F2Q9wboJlopMZVTMKD5Ya?dl=0). Scripts are now available in the main [termic](https://github.com/Spidersouris/termic) repo.**
 
 ___
 
